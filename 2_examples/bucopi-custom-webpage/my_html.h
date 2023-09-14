@@ -1,0 +1,16 @@
+char html_code[] = 
+"<!DOCTYPE HTML>"
+"<html>"
+"<head>"
+"<meta charset=\"utf-8\">"
+"<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">"
+"<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">"
+"<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js\"></script>"
+"<title>BUCO PI Remote Relay Control</title>"
+"</head>"
+"<body>"
+"<h1>BUCO PI</h1>"
+"<p> Greetings! You can add customized webpages in BUCO PI boards. You can call APIs, execute PHP Commands, do home automations via controlling relays, do remote sensor monitoring, and a lot more.</p>"
+"<p> visit https://www.github.com/jccatilo/bucopi for the documentation and examples. </p>"
+"</body>"
+"</html>";
