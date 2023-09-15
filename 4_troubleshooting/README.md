@@ -55,17 +55,20 @@ This troubleshooting guide is intended to help you resolve common issues that ma
 **Problem**: Unable to select the correct port for uploading.
 
 **Solution**:
-- Go to `Tools > Port` and select the appropriate port for your Arduino board.
+- Go to `Tools > Port` and select the appropriate port for your BUCO PI board.
 - Ensure the board is connected properly to your computer.
 
 ### 3.2. Upload Failed
 
-**Problem**: Unable to upload the sketch to the Arduino board.
+**Problem**: Unable to upload the sketch to the BUCO PI board.
 
 **Solution**:
+- Press and hold the reset button, while holding down briefly press the flash button, then release the reset button and then the flash button.
 - Verify that the correct board model is selected in `Tools > Board`.
 - Check if the board is in the correct mode (e.g., bootloader mode).
 - Ensure no other software is using the serial port.
+- Use FT232BL driver to upload the sketch.
+- Use baud rate 115200.
 
 ## 4. Board Configuration Issues <a name="board-configuration-issues"></a>
 
