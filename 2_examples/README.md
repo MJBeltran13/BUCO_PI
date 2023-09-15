@@ -2,19 +2,6 @@
 
 ## Smart home Application
 ### Description:
-This Smart Home application utilizes the BUCO PI board to control various devices within a home environment. It enables users to remotely monitor and manage lights, temperature, and security systems using a mobile app
-
-## Argri Aqua Application
-### Description:
-This application focuses on agriculture and aquaculture monitoring. It uses the BUCO PI board to collect data from various sensors measuring soil moisture, pH levels, water temperature, and more. The data is then sent to a cloud server for analysis and visualization.
-
-
-## Robotics Application
-### Description:
-In this application, the BUCO PI board is integrated into a robotic system. It controls motors, reads input from various sensors, and communicates with a remote control interface. This enables the robot to perform tasks such as object detection, navigation, and manipulation.
-
-## Smart home Application
-### Description:
 The Smart Home Application powered by the BUCO PI circuit board is designed to automate and control various aspects of your home. With this application, you can:
 
 Control smart lights, switches, and appliances remotely via Wi-Fi.
