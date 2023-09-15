@@ -1,4 +1,4 @@
-# Arduino IDE Troubleshooting Guide
+# BUCO PI Troubleshooting Guide
 
 This troubleshooting guide is intended to help you resolve common issues that may arise while using the Arduino Integrated Development Environment (IDE). If you encounter a problem not covered in this guide, please seek help on Arduino forums or community resources.
 
@@ -24,7 +24,7 @@ This troubleshooting guide is intended to help you resolve common issues that ma
 
 ### 1.2. Missing Drivers
 
-**Problem**: USB drivers for the Arduino board are not installed.
+**Problem**: USB drivers for the ESP8266 board are not installed.
 
 **Solution**:
 - Visit the board manufacturer's website and download the necessary drivers.
@@ -77,14 +77,14 @@ This troubleshooting guide is intended to help you resolve common issues that ma
 **Problem**: Selected board does not match the connected hardware.
 
 **Solution**:
-- Go to `Tools > Board` and select the correct Arduino board model.
+- Go to `Tools > Board` and select the correct ESP8266 board model.
 - Double-check the board type and version.
 
 ## 5. Serial Communication Problems <a name="serial-communication-problems"></a>
 
 ### 5.1. Serial Monitor Not Working
 
-**Problem**: Unable to communicate with the Arduino using the Serial Monitor.
+**Problem**: Unable to communicate with BUCO PI using the Serial Monitor.
 
 **Solution**:
 - Check that the baud rate in the Serial Monitor matches the one set in your sketch.
@@ -113,7 +113,7 @@ This troubleshooting guide is intended to help you resolve common issues that ma
 
 **Solution**:
 - Verify that all connections are secure and there are no loose wires.
-- Test with a different Arduino board, if possible, to rule out hardware problems.
+- Test with a different ESP8266 board or similar, if possible, to rule out hardware problems.
 
 ---
 
