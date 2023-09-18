@@ -3,7 +3,7 @@
 ## Overwriting Library
 
 1. **Download the Library Folder**:
-    - click
+    - Click
 
 
 
