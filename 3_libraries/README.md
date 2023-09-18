@@ -1,10 +1,17 @@
 # Library
 
+## Overwriting Library
+
+1. **Download the Library Folder**:
+    - click
+
+
+
 ## How To Install
 Follow these steps to install the Library on your Arduino:
 
 1. **Download the Library Folder**:
-   - Go to the [CONTENTS](#contents) section.
+   - Go to the [contents](#contents) section.
    - Click on the library ex. ArduinoJson.
    - Click on the green "Code" button and select "Download ZIP".
    - Save the ZIP file to your computer.
@@ -35,25 +42,25 @@ Follow these steps to install the Library on your Arduino:
 ## CONTENTS
 
 ### ArduinoJson
-- GitHub Repository: [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson)
+- GitHub Repository: [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
 
 ### ESP8266WiFi
-- GitHub Repository (for ESP8266 Arduino core): [esp8266/Arduino](https://github.com/esp8266/Arduino)
+- GitHub Repository: [ESP8266WiFi](https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WiFi)
 
 ### WiFiClientSecure
-- GitHub Repository (part of the ESP8266 Arduino core): [esp8266/Arduino](https://github.com/esp8266/Arduino)
+- GitHub Repository: [WiFiClientSecure](https://github.com/espressif/arduino-esp32/tree/master/libraries/WiFiClientSecure)
 
 ### ESP8266HTTPClient
-- GitHub Repository (part of the ESP8266 Arduino core): [esp8266/Arduino](https://github.com/esp8266/Arduino)
+- GitHub Repository: [ESP8266HTTPClient](https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266HTTPClient)
 
 ### WiFiManager
-- GitHub Repository: [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager)
+- GitHub Repository: [WiFiManager](https://github.com/tzapu/WiFiManager)
 
 ### Adafruit_SSD1306
-- GitHub Repository: [adafruit/Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
+- GitHub Repository: [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
 
 ### Adafruit_BME280
-- GitHub Repository: [adafruit/Adafruit_BME280_Library](https://github.com/adafruit/Adafruit_BME280_Library)
+- GitHub Repository: [Adafruit_BME280_Library](https://github.com/adafruit/Adafruit_BME280_Library)
 
 ### Ticker
-- GitHub Repository (part of the ESP8266 Arduino core): [esp8266/Arduino](https://github.com/esp8266/Arduino)
+- GitHub Repository: [Ticker](https://github.com/sstaub/Ticker)
