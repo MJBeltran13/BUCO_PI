@@ -3,8 +3,12 @@
 ## Overwriting Library
 
 1. **Download the Library Folder**:
-    - Click
+    - Click the [library.zip](https://github.com/MJBeltran13/BUCO_PI/blob/main/3_libraries/libraries.rar) file.
+    - Click the "Download Raw File" option.
+    - Unzip the downloaded file.
 
+2. **Replace the Existing Library**:
+    - Drag and drop the unzipped library folder into the location where you want to overwrite the existing library files.
 
 
 ## How To Install
