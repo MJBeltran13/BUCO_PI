@@ -1,4 +1,4 @@
-# Project 2: Robotics Application
+# Project 3: Robotics Application
 
 ## How to Use
 
