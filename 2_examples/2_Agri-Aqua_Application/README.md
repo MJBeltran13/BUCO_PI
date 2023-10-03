@@ -22,3 +22,5 @@
 8. **Interact with the Smart Home Application**:
    - Use the specified commands or triggers to control your smart home devices.
    - Observe the application's responses in the serial monitor.
+
+   
