@@ -34,3 +34,7 @@ The Robotics Application powered by the BUCO PI circuit board is ideal for creat
 - Utilize sensors and actuators for precise control and feedback.
 - Establish communication with other devices and robots for collaborative tasks.
 - Develop autonomous navigation algorithms for mobile robots.
+
+## Other Examples
+- [bucopi_custom_webpage](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/bucopi-custom-webpage)
+- OLED Display Codes
