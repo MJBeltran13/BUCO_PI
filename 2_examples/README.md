@@ -1,6 +1,8 @@
 # Examples
 
 ## [Smart home Application](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/1_bucopi_bme280_and_blinking_led)
+![Alt Text](https://cdn.pixabay.com/photo/2019/04/03/12/04/home-4100193_1280.jpg)
+
 ### Description:
 The Smart Home Application powered by the BUCO PI circuit board is designed to automate and control various aspects of your home. With this application, you can:
 
