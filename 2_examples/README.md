@@ -10,7 +10,7 @@ The Smart Home Application powered by the BUCO PI circuit board is designed to a
 - Create custom routines to streamline your daily tasks, such as setting up wake-up and bedtime sequences.
 - Integrate voice control using platforms like Amazon Alexa or Google Assistant.
 
-## Argri Aqua Application
+## Agri-Aqua Application
 ### Description:
 The Agri Aqua Application leverages the BUCO PI circuit board to optimize agricultural and aquacultural processes. With this application, you can:
 

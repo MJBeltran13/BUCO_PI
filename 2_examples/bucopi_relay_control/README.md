@@ -1,4 +1,4 @@
-# Project 2: Robotics Application
+# Project 3: Agri-Aqua Application
 
 ## How to Use
 
