@@ -9,9 +9,9 @@ Follow these steps:
    - Double-check all connections to ensure they are secure.
 
 2. **Download the Code**:
-   - Download the bucopi_and_arduino_communication_via_sda_scl code from the [repository](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/bucopi_bme280_and_blinking_led).
-   - Download code for bucopi_master
-   - Download code for arduino_slave
+   - Download the bucopi and arduino communication via sda scl codes from the repository.
+   - Download code for [bucopi_master.ino](https://github.com/MJBeltran13/BUCO_PI/blob/main/2_examples/bucopi_and_arduino_communication_via_sda_scl/bucopi_master.ino).
+   - Download code for [arduino_slave](https://github.com/MJBeltran13/BUCO_PI/blob/main/2_examples/bucopi_and_arduino_communication_via_sda_scl/arduino_slave.ino).
 
 3. **Open in Arduino IDE**:
    - Launch the Arduino IDE on your computer.
