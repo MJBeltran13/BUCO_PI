@@ -13,6 +13,7 @@ The Smart Home Application powered by the BUCO PI circuit board is designed to a
 - Integrate voice control using platforms like Amazon Alexa or Google Assistant.
 
 ## [Agri-Aqua Application](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/2_bucopi_relay_control)
+![Alt Text](https://cdn.vectorstock.com/i/1000x1000/02/25/smart-greenhouses-agricultural-robots-cartoon-vector-25160225.webp)
 ### Description:
 The Agri Aqua Application leverages the BUCO PI circuit board to optimize agricultural and aquacultural processes. With this application, you can:
 
@@ -24,6 +25,7 @@ The Agri Aqua Application leverages the BUCO PI circuit board to optimize agricu
 
 
 ## [Robotics Application](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/3_bucopi_and_arduino_communication_via_sda_scl)
+![Alt Text](https://karakuri.com/assets/media/designs/uploads/sections/articlecomponent/1225x689/ai-and-iot-070803-357177.jpg)
 ### Description:
 The Robotics Application powered by the BUCO PI circuit board is ideal for creating versatile robotic systems. With this application, you can:
 
