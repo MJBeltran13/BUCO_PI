@@ -1,8 +1,6 @@
-# Project 1: Smart Home Application
+# Project 2: Agri-Aqua Application
 
 ## How to Use
-
-To use the Smart Home Application, follow these steps:
 
 1. **Hardware Setup**:
    - Ensure you have the BUCO PI circuit board and necessary sensors/devices connected to your Arduino.
