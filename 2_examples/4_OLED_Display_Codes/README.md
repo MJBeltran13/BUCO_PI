@@ -1,40 +1,32 @@
-# Examples
+## How to Use
 
-## [Smart home Application](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/1_bucopi_bme280_and_blinking_led)
-![Alt Text](https://cdn.pixabay.com/photo/2019/04/03/12/04/home-4100193_1280.jpg)
+Follow these steps:
 
-### Description:
-The Smart Home Application powered by the BUCO PI circuit board is designed to automate and control various aspects of your home. With this application, you can:
+1. **Hardware Setup**:
+   - Ensure you have the BUCO PI circuit board and joystick connected to your Arduino.
+   - Double-check all connections to ensure they are secure.
 
-- Control smart lights, switches, and appliances remotely via Wi-Fi.
-- Monitor and adjust your home's thermostat for optimal comfort and energy savings.
-- Receive real-time alerts and notifications about security breaches, fire, or other emergencies.
-- Create custom routines to streamline your daily tasks, such as setting up wake-up and bedtime sequences.
-- Integrate voice control using platforms like Amazon Alexa or Google Assistant.
+2. **Download the Code**:
+   - Download the bucopi and arduino communication via sda scl codes from the repository.
+   - Download code for [bucopi_master.ino](https://github.com/MJBeltran13/BUCO_PI/blob/main/2_examples/bucopi_and_arduino_communication_via_sda_scl/bucopi_master.ino).
+   - Download code for [arduino_slave](https://github.com/MJBeltran13/BUCO_PI/blob/main/2_examples/bucopi_and_arduino_communication_via_sda_scl/arduino_slave.ino).
 
-## [Agri-Aqua Application](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/2_bucopi_relay_control)
-![Alt Text](https://cdn.vectorstock.com/i/1000x1000/02/25/smart-greenhouses-agricultural-robots-cartoon-vector-25160225.webp)
-### Description:
-The Agri Aqua Application leverages the BUCO PI circuit board to optimize agricultural and aquacultural processes. With this application, you can:
+3. **Open in Arduino IDE**:
+   - Launch the Arduino IDE on your computer.
 
-- Monitor soil moisture levels to ensure optimal irrigation for crops.
-- Control water pumps and valves to manage aquaculture systems efficiently.
-- Receive weather forecasts and real-time environmental data for informed decision-making.
-- Automate feeding schedules for aquaculture farms.
-- Implement remote surveillance for agricultural fields and fish farms.
+4. **Load the Code**:
+   - Open the downloaded code for the bucopi_master.
+   - And open the downloaded code for the arduino_slave.
+
+6. **Upload the Code**:
+   - Select your board and port in the Arduino IDE for the bucopi_master.
+   - Click the upload button to load the code onto your BUCO PI board.
+   - Select your board and port in the Arduino IDE for the arduino_slave.
+   - Click the upload button to load the code onto your arduino board.
+
+8. **Interact with the joystick**:
+   - modify the codes to perform the specified commands or triggers to control your robots.
+   - Observe the application's responses in the serial monitor.
+   
 
 
-## [Robotics Application](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/3_bucopi_and_arduino_communication_via_sda_scl)
-![Alt Text](https://karakuri.com/assets/media/designs/uploads/sections/articlecomponent/1225x689/ai-and-iot-070803-357177.jpg)
-### Description:
-The Robotics Application powered by the BUCO PI circuit board is ideal for creating versatile robotic systems. With this application, you can:
-
-- Build robotic vehicles with motor control and obstacle avoidance capabilities.
-- Implement computer vision and image processing for object recognition and tracking.
-- Utilize sensors and actuators for precise control and feedback.
-- Establish communication with other devices and robots for collaborative tasks.
-- Develop autonomous navigation algorithms for mobile robots.
-
-## Other Examples
-- [bucopi_custom_webpage](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/bucopi-custom-webpage)
-- OLED Display Codes
