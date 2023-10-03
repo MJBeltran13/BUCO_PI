@@ -1,6 +1,6 @@
 # Examples
 
-## [Smart home Application](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/bucopi_bme280_and_blinking_led)
+## [Smart home Application](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/1_bucopi_bme280_and_blinking_led)
 ### Description:
 The Smart Home Application powered by the BUCO PI circuit board is designed to automate and control various aspects of your home. With this application, you can:
 
@@ -10,7 +10,7 @@ The Smart Home Application powered by the BUCO PI circuit board is designed to a
 - Create custom routines to streamline your daily tasks, such as setting up wake-up and bedtime sequences.
 - Integrate voice control using platforms like Amazon Alexa or Google Assistant.
 
-## Agri-Aqua Application
+## [Agri-Aqua Application](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/2_bucopi_relay_control)
 ### Description:
 The Agri Aqua Application leverages the BUCO PI circuit board to optimize agricultural and aquacultural processes. With this application, you can:
 
@@ -21,7 +21,7 @@ The Agri Aqua Application leverages the BUCO PI circuit board to optimize agricu
 - Implement remote surveillance for agricultural fields and fish farms.
 
 
-## Robotics Application
+## [Robotics Application](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/3_bucopi_and_arduino_communication_via_sda_scl)
 ### Description:
 The Robotics Application powered by the BUCO PI circuit board is ideal for creating versatile robotic systems. With this application, you can:
 
