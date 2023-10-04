@@ -1,32 +1,35 @@
 ## How to Use
 
-Follow these steps:
+Follow these steps for hardware and software Setup
 
-1. **Hardware Setup**:
-   - Ensure you have the BUCO PI circuit board and joystick connected to your Arduino.
-   - Double-check all connections to ensure they are secure.
 
-2. **Download the Code**:
-   - Download the bucopi and arduino communication via sda scl codes from the repository.
-   - Download code for [bucopi_master.ino](https://github.com/MJBeltran13/BUCO_PI/blob/main/2_examples/bucopi_and_arduino_communication_via_sda_scl/bucopi_master.ino).
-   - Download code for [arduino_slave](https://github.com/MJBeltran13/BUCO_PI/blob/main/2_examples/bucopi_and_arduino_communication_via_sda_scl/arduino_slave.ino).
+## Hardware Setup
 
-3. **Open in Arduino IDE**:
-   - Launch the Arduino IDE on your computer.
+1. **Prepare the BUCO PI Circuit Board:**:
+   - Ensure you have the BUCO PI circuit board on hand.
 
-4. **Load the Code**:
-   - Open the downloaded code for the bucopi_master.
-   - And open the downloaded code for the arduino_slave.
+2. **Attach the 124x64 OLED Display:**
+   - Connect the 124x64 OLED Display to the BUCO PI circuit board using the provided connectors.
 
-6. **Upload the Code**:
-   - Select your board and port in the Arduino IDE for the bucopi_master.
-   - Click the upload button to load the code onto your BUCO PI board.
-   - Select your board and port in the Arduino IDE for the arduino_slave.
-   - Click the upload button to load the code onto your arduino board.
-
-8. **Interact with the joystick**:
-   - modify the codes to perform the specified commands or triggers to control your robots.
-   - Observe the application's responses in the serial monitor.
+3. **Connect the USB-TO-TTL Converter:**
+   - Plug in the USB-TO-TTL converter to your computer. Make sure the connection is secure.
    
+4. **Verify Connections:**
+   - Double-check all connections to ensure they are properly seated and secure. This step is crucial for the system's stability and performance.
+
+## Software Setup
+
+1. **Open Text Editor**
+   - Launch the Arduino IDE
+
+2. **Load the code**
+   - download the code
+
+3. **Choose the board used**
+
+4. **Choose the port used**
+
+5. **Upload the code**
+
 
 
