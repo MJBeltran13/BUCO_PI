@@ -1,6 +1,6 @@
 # Examples
 
-## [Smart home Application](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/1_bucopi_bme280_and_blinking_led)
+## [Smart home Application](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/1_Smart-Home_Application)
 ![Alt Text](https://cdn.pixabay.com/photo/2019/04/03/12/04/home-4100193_1280.jpg)
 
 ### Description:
@@ -12,7 +12,7 @@ The Smart Home Application powered by the BUCO PI circuit board is designed to a
 - Create custom routines to streamline your daily tasks, such as setting up wake-up and bedtime sequences.
 - Integrate voice control using platforms like Amazon Alexa or Google Assistant.
 
-## [Agri-Aqua Application](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/2_bucopi_relay_control)
+## [Agri-Aqua Application](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/2_Agri-Aqua_Application)
 ![Alt Text](https://cdn.vectorstock.com/i/1000x1000/02/25/smart-greenhouses-agricultural-robots-cartoon-vector-25160225.webp)
 ### Description:
 The Agri Aqua Application leverages the BUCO PI circuit board to optimize agricultural and aquacultural processes. With this application, you can:
@@ -24,7 +24,7 @@ The Agri Aqua Application leverages the BUCO PI circuit board to optimize agricu
 - Implement remote surveillance for agricultural fields and fish farms.
 
 
-## [Robotics Application](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/3_bucopi_and_arduino_communication_via_sda_scl)
+## [Robotics Application](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/3_Robotics_Application)
 ![Alt Text](https://karakuri.com/assets/media/designs/uploads/sections/articlecomponent/1225x689/ai-and-iot-070803-357177.jpg)
 ### Description:
 The Robotics Application powered by the BUCO PI circuit board is ideal for creating versatile robotic systems. With this application, you can:
@@ -37,5 +37,5 @@ The Robotics Application powered by the BUCO PI circuit board is ideal for creat
 
 ## Other Examples
 - [bucopi_custom_webpage](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/bucopi-custom-webpage)
-- [bucopiV2_custom_webpage](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/bucopiV2-custom-webpage)
-- [OLED_display_codes](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/OLED_display_codes)
+- [bucopiV2_custom_webpage](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/4_bucopiV2-Custom-webpage)
+- [OLED_display_codes](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/4_OLED_Display_Codes)
