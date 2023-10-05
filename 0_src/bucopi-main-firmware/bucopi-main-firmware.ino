@@ -58,6 +58,9 @@ void showFirmwareVersion() {
   display.display();
 }
 
+
+
+
 void displayHeaderGreeting() {
 
   display.setCursor(0, 0);
