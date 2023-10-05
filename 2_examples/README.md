@@ -37,4 +37,5 @@ The Robotics Application powered by the BUCO PI circuit board is ideal for creat
 
 ## Other Examples
 - [bucopi_custom_webpage](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/bucopi-custom-webpage)
-- OLED Display Codes
+- [bucopiV2_custom_webpage](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/bucopiV2-custom-webpage)
+- [OLED_display_codes](https://github.com/MJBeltran13/BUCO_PI/tree/main/2_examples/OLED_display_codes)
