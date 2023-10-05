@@ -32,11 +32,23 @@ Follow these steps for hardware and software setup.
    - In the Arduino IDE, navigate to the "Tools" menu and select the correct port for your USB-TO-TTL converter. This allows the IDE to communicate with your BUCO PI Circuit Board.
    - Select `Tools` > `Port` > `[Buco Pi Slice PORT]`
 
-5. **Verify and Upload the Code:**
-   - In the Arduino IDE, click the "verify" button.
-   - Then click the "Upload" button in the Arduino IDE to upload the code to your BUCO PI Circuit Board.
-   
-6. **Verify Upload Success:**
+5. **Add Library**
+   - Select `Tools` > `Manage Libraries` > `Add Library...`
+   - Add and install `ArduinoJson` library.
+   - Add and install `wifi manager by tzapu/tablatronix` library.
+
+6. **Connect USB-TO-TTL Converter**
+   - Ensure the pins are correctly connected to the BUCO PI Circuit Board.
+   - Connect `TX to RX` on the BUCO PI Circuit Board.
+   - Connect `RX to TX` on the BUCO PI Circuit Board.
+   - Connect `GND to GND` on the BUCO PI Circuit Board.
+   - Connect `5V to 5V` on the BUCO PI Circuit Board.
+
+7. **Upload the Code and Change BUCO PI to Upload mode:**
+   - In the Arduino IDE, click the `UPLOAD` button.
+   - Press and hold the `reset button`, while holding down briefly press the `flash button`, then release the reset button and then the flash button.
+
+8. **Verify Upload Success:**
    - After the code is uploaded, check the IDE's console for any error messages. If there are no errors, your code has been successfully uploaded to the BUCO PI Circuit Board.
 
 

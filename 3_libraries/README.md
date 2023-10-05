@@ -5,16 +5,22 @@ Follow these steps to install the ESP8266 Library on your Arduino:
 
 1. **Download the Library Folder**:
     - Click the [library.zip](https://github.com/MJBeltran13/BUCO_PI/blob/main/3_libraries/esp8266.rar) file.
-    - Click the "Download Raw File" option.
+    - Click the 'view raw' option at the middle.
    
 2. **Go to Package**
     - Search RUN app
-    - Type `localappdata` and press Enter
+    - Type `%localappdata%` and press Enter
     - go to `Arduino15` 
     - go to `Packages`
 
 2. **Over Write ESP8266 Library**:
-   - Drag and drop the `esp8266` folder into the package folder.
+   - Drag and drop the `esp8266.zip` folder into the package folder.
+   - press `unzip here`.
+
+### 2.1 **Proceed to Arduino IDE**:
+   - Select `Tools` > `Board` > `Esp 8266 board` > `Generic Esp8266 Module`
+   - Select `Tools` > `Port` > `[Buco Pi Slice PORT]`
+
 
 3. **Verify the Installation**:
    - Create a new sketch (`File > New`).
