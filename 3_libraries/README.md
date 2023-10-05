@@ -4,7 +4,7 @@
 Follow these steps to install the ESP8266 Library on your Arduino:
 
 1. **Download the Library Folder**:
-    - Click the [library.zip](https://github.com/MJBeltran13/BUCO_PI/blob/main/3_libraries/libraries.rar) file.
+    - Click the [library.zip](https://github.com/MJBeltran13/BUCO_PI/blob/main/3_libraries/esp8266.rar) file.
     - Click the "Download Raw File" option.
    
 2. **Go to Package**
