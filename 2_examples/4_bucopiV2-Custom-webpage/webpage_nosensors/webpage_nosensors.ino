@@ -11,6 +11,7 @@
 #include <Adafruit_SSD1306.h>
 #include <ESP8266WebServer.h>
 #include <Ticker.h> // Include the Ticker library for timer-based tasks
+#include <sstream>
 
 
 ESP8266WebServer server(80);
@@ -101,17 +102,26 @@ void startWebServer() {
 }
 
 void handleRoot() {
-  String html = "<html><body>";
-  html += "<h1>HELLO WORLD</h1>";
-  html += "<audio controls autoplay>";
-  html += "<source src='https://www.myinstants.com/media/sounds/rickrolled.mp3' type='audio/mp3'>";
-  html += "</audio>";
-  html += "<br>";
-  html += "<img src='https://media.tenor.com/SSY2V0RrU3IAAAAd/rick-roll-rick-rolled.gif' alt='Rickroll GIF'>";
-  html += "</body></html>";
-  
-  server.send(200, "text/html", html);
+  std::stringstream html;
+  html << R"(
+    <html>
+      <body>
+        <h1>HELLO WORLD</h1>
+        <audio controls autoplay>
+          <source src='https://www.myinstants.com/media/sounds/rickrolled.mp3' type='audio/mp3'>
+          Your browser does not support the audio element.
+        </audio>
+        <br>
+        <img src='https://media.tenor.com/SSY2V0RrU3IAAAAd/rick-roll-rick-rolled.gif' alt='Rickroll GIF'>
+      </body>
+    </html>
+  )";
+
+  server.send(200, "text/html", html.str().c_str());
 }
+
+
+
 
 
 bool checkInternetStatus() {
