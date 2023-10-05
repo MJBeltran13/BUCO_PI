@@ -1,30 +1,20 @@
 # Library
 
-## Overwriting Library
+## How To Install
+Follow these steps to install the ESP8266 Library on your Arduino:
 
 1. **Download the Library Folder**:
     - Click the [library.zip](https://github.com/MJBeltran13/BUCO_PI/blob/main/3_libraries/libraries.rar) file.
     - Click the "Download Raw File" option.
-    - Unzip the downloaded file.
+   
+2. **Go to Package**
+    - Search RUN app
+    - Type `localappdata` and press Enter
+    - go to `Arduino15` 
+    - go to `Packages`
 
-2. **Replace the Existing Library**:
-    - Drag and drop the unzipped library folder into the location where you want to overwrite the existing library files.
-
-
-## How To Install
-Follow these steps to install the Library on your Arduino:
-
-1. **Download the Library Folder**:
-   - Go to the [contents](#contents) section.
-   - Click on the library ex. ArduinoJson.
-   - Click on the green "Code" button and select "Download ZIP".
-   - Save the ZIP file to your computer.
-
-2. **Install the Library in Arduino IDE**:
-   - Open the Arduino IDE on your computer.
-   - Go to `Sketch > Include Library > Add .ZIP Library...`.
-   - Browse and select the downloaded ZIP file of library_samplename.
-   - Click "Open" to install the library.
+2. **Over Write ESP8266 Library**:
+   - Drag and drop the `esp8266` folder into the package folder.
 
 3. **Verify the Installation**:
    - Create a new sketch (`File > New`).
